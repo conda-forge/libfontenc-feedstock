@@ -1,4 +1,4 @@
-{% set version = "1.1.9" %}
+{% set version = "1.1.10" %}
 
 package:
   name: libfontenc
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://www.x.org/releases/individual/lib/libfontenc-{{ version }}.tar.xz
-  sha256: 9d8392705cb10803d5fe1d27d236cbab3f664e26841ce01916bbbe430cf273e2
+  sha256: daa186a49e3cc2b6fc585ca09971351e6f010f618abc6a164eda82e42e4aa4d6
 
 build:
   number: 0
